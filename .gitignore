@@ -1,0 +1,19 @@
+# Logi
+logs/
+*.log
+
+# Katalogi i pliki środowiskowe (tu masz hasło do MongoDB!)
+.venv/
+
+# Systemowe / edytora
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Pliki outputu
+data/
+outputs*/
+
+# Pliki cache
+__pycache__/
+
